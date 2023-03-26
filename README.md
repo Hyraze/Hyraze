@@ -6,7 +6,6 @@
 - 💼 &nbsp; Working as a Full Stack Software Engineer at [Vistas Global WLL](https://vistasglobal.com)
 - 📝 &nbsp; I write articles on [Dev.to](https://dev.to/hanishrao)
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies
-- 📫 &nbsp; How to reach me: hanishrao321@gmail.com
 - 🥅 &nbsp; 2023 Goals: Learn web3 & flutter & building a boilerplate template for a full-stack development
 
 <h3> 🛠 Tech Stack </h3>
@@ -36,7 +35,6 @@
 <a href="https://www.linkedin.com/in/hanishrao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hanishrao321@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hanishrao321@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
 
 <h3 align="left">Support:</h3>
 
