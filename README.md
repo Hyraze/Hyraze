@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 💼 &nbsp; Working as a Full Stack Software Engineer at [Vistas Global WLL](https://vistasglobal.com)
-- 🎓 &nbsp; BE(CS) from Vivekanada College of Engineering & Technology
 - 📝 &nbsp; I write articles on [Dev.to](https://dev.to/hanishrao)
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies
 - 📫 &nbsp; How to reach me: hanishrao321@gmail.com
